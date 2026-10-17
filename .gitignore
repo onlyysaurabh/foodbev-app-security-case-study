@@ -1,0 +1,8 @@
+*.har
+*.pcap
+*.apk
+*.xapk
+tokens/
+captures/
+*.log
+__pycache__/
